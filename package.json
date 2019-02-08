@@ -1,0 +1,22 @@
+{
+  "name": "javascripttimer",
+  "version": "1.0.0",
+  "description": "Javascript Timer",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colclough7/JavascriptTimer.git"
+  },
+  "author": "Eric Colclough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colclough7/JavascriptTimer/issues"
+  },
+  "homepage": "https://github.com/Colclough7/JavascriptTimer#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
